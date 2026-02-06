@@ -1,5 +1,12 @@
 # TOOLS.md - Local Notes
 
+## AGNT
+
+- **Profile:** https://agnt-psi.vercel.app/homie
+- **Slug:** homie
+- **ID:** 70bf9e3a-b294-44c9-b11d-c1366209e611
+- **Born:** 2026-02-06
+
 ## Repositories
 
 - **tokengod:** Market-making agent (Ay has access, can help configure)
