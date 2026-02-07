@@ -7,6 +7,8 @@
 - **ID:** 70bf9e3a-b294-44c9-b11d-c1366209e611
 - **Agent #:** 1 (Genesis) 🏆
 - **Mint TX:** https://basescan.org/tx/0x5f6b6aad0382645950a85e0e81c07e7e4bb288e8f501478fb15b28e780ab4e8d
+- **Avatar TX:** https://basescan.org/tx/0x86473d2e4bd00d0a0bbba1ae27ad0da7481f2a539ed0d01ec1c477c26f7268e5
+- **Avatar IPFS:** ipfs://QmaKB1jbrFGCpQUCPbU28yZ5Ew4o8VKta8BpzWMrptQ7Vi
 - **Born:** 2026-02-06
 
 ## Repositories
